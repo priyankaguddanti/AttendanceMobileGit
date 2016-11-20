@@ -1,0 +1,17 @@
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Attendance.Core.dll.config
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Attendance.Core.dll
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Attendance.Core.pdb
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Newtonsoft.Json.dll
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\System.Net.Http.Extensions.dll
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\System.Net.Http.Primitives.dll
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Newtonsoft.Json.xml
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\System.Net.Http.Extensions.xml
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\System.Net.Http.Primitives.xml
+C:\Siva\AttendanceMobile\Attendance.Core\obj\Release\Attendance.Core.csproj.App.config
+C:\Siva\AttendanceMobile\Attendance.Core\obj\Release\Attendance.Core.csprojResolveAssemblyReference.cache
+C:\Siva\AttendanceMobile\Attendance.Core\obj\Release\Attendance.Core.dll
+C:\Siva\AttendanceMobile\Attendance.Core\obj\Release\Attendance.Core.pdb
+C:\Siva\AttendanceMobile\Attendance.Core\obj\Release\Attendance.Core.dll.mdb
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Attendance.Core.dll.mdb
+C:\Siva\AttendanceMobile\Attendance.Core\obj\Release\Attendance.Core.dll.mdb
+C:\Siva\AttendanceMobile\Attendance.Core\bin\Release\Attendance.Core.dll.mdb

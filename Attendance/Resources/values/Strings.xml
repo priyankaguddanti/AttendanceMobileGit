@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Attendance</string>
+  <string name="classview_range">Choose a range</string>
+  <string-array name="classview_array">
+    <item>Past 3 days</item>
+    <item>Past 7 days</item>
+    <item>Past 2 weeks</item>
+    <item>Past month</item>
+  </string-array>
+</resources>
